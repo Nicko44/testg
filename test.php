@@ -1,2 +1,2 @@
 <?PHP  
-echo "HUY";
+echo "HUY2";
